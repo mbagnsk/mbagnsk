@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Michał Bagiński. I'm a ILE RPG Developerin the IBM i operating system.
+- 👀 I’m interested in back-end.
+- 🌱 I’m currently learning .NET/C# technology.
+- 📫 How to reach me: linkedin.com/in/michal-baginski/
